@@ -19,18 +19,18 @@ A full-stack web application that allows users to securely connect their Slack w
 ## 🖼️ Screenshots
 
 
-   ![Home UI](.slack-connect/frontend/public/Screenshot_1.png)
+   ![Home UI](slack-connect/frontend/public/Screenshot_1.png)
    
-   ![Home UI](.slack-connect/frontend/public/Screenshot_2.png)
+   ![Home UI](slack-connect/frontend/public/Screenshot_2.png)
    
 
 ---
 
 ## 🏗️ Architecture Diagram
 
-   ```markdown
+   
    ![Architecture Diagram](slack-connect/frontend/public/Architecture_Diagram.png)
-   ```
+   
 
 ---
 
