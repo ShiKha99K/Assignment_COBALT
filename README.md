@@ -26,7 +26,7 @@ A full-stack web application that allows users to securely connect their Slack w
 
 ---
 
-## 🏗️ Architecture Diagram
+## 🖼️ Architecture Diagram
 
    
    ![Architecture Diagram](slack-connect/frontend/public/Architecture_Diagram.png)
