@@ -10,6 +10,7 @@ A full-stack web application that allows users to securely connect their Slack w
 * **Secure Token Management (JSON file-based)**
 * **Send Messages Instantly to Any Channel**
 * **Schedule Messages for Later Delivery**
+* **Update Tokens in every one Hour**
 * **Modern React UI**
 * **View & Cancel Scheduled Messages**
 * **Fully documented and easily extensible**
